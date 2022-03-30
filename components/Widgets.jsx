@@ -10,7 +10,7 @@ function Widgets() {
     { src: "https://links.papareact.com/zvy", name: "Bill Gates" },
     { src: "https://links.papareact.com/snf", name: "Mark Zuckerberg" },
     { src: "https://links.papareact.com/d0c", name: "Harry Potter" },
-    { src: "https://links.papareact.com/6gg", name: "The Queen" },
+    { src: "https://links.papareact.com/6gg", name: "The Queen UK" },
     { src: "https://links.papareact.com/r57", name: "James Bond" },
   ];
 
